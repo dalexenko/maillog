@@ -1,0 +1,4 @@
+AuthName " "
+AuthType Basic
+require valid-user
+AuthUserFile "/var/www/html/maillog/.htpasswd"
